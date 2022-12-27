@@ -9,4 +9,4 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">The Wedding Rezqi & Emelda</h1>
+  <h1 align="center">The Wedding Emelda & Rezqi Abdina</h1>
